@@ -4,3 +4,5 @@ scipy
 matplotlib
 opencv-python-headless
 Pillow
+openai
+google-generativeai
